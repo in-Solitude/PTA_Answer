@@ -3,4 +3,4 @@
 
 
 
-This project aims at create a environment for myself learning Java Swing and GitHub.It also is used to cope with too much homework from my teacher.The Answers are provided by https://www.hyluz.cn/. Thanks a lot for Giving me a chance to learn about Url connect in Java!
+This project aims at create a environment for myself learning Java Swing and GitHub. It also is used to cope with too much homework from my teacher. The Answers are provided by https://www.hyluz.cn/. Thanks a lot for Giving me a chance to learn about Url connect in Java!
